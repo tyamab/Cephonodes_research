@@ -1,0 +1,1 @@
+(Pxylostella:0.973936,(Pxuthus:0.797339,(Gmellonella:0.697977,((Harmigera:0.250847,Slitura:0.250847):0.345066,((Bmandarina:0.014229,Bmori_RefSeq:0.014229):0.455753,(Msexta_RefSeq:0.270715,(Chylas:0.184882,Hvespertilio:0.184882):0.085833):0.199266):0.125931):0.102065):0.099362):0.176596)
