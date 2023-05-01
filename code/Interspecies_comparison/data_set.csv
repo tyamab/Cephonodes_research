@@ -1,0 +1,5 @@
+Species Name,File Name,Source
+Hemileuca_maia,CLEAN_BuckH.fa,kawahara_et_al_2019
+Lymantria_dispar,Trinity_Ly3.fa,kawahara_et_al_2019
+Leucoptera_coffeella,GEAX01.1.fsa_nt,https://sra-download.ncbi.nlm.nih.gov/traces/wgs01/wgs_aux/GE/AX/GEAX01/GEAX01.1.fsa_nt.gz
+Macrosoma_sp.,GCOL01.1.fsa_nt,https://sra-download.ncbi.nlm.nih.gov/traces/wgs01/wgs_aux/GC/OL/GCOL01/GCOL01.1.fsa_nt.gz
